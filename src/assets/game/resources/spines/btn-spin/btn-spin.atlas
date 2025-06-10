@@ -1,697 +1,496 @@
 
 btn-spin.webp
-size: 1950,1923
+size: 2014,367
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-circleidle/circleidle_00104
+images/Twinkle Bubble/wh_vfx_d_add_09
   rotate: false
-  xy: 741, 1251
-  size: 300, 261
-  orig: 300, 261
-  offset: 0, 0
+  xy: 2, 136
+  size: 223, 229
+  orig: 350, 350
+  offset: 67, 58
   index: -1
-circleidle/circleidle_00106
+images/Twinkle Bubble/wh_vfx_d_add_10
   rotate: false
-  xy: 1043, 1248
-  size: 300, 261
-  orig: 300, 261
-  offset: 0, 0
+  xy: 227, 141
+  size: 215, 224
+  orig: 350, 350
+  offset: 67, 57
   index: -1
-circleidle/circleidle_00110
+images/Twinkle Bubble/wh_vfx_d_add_11
   rotate: false
-  xy: 1345, 1222
-  size: 300, 261
-  orig: 300, 261
-  offset: 0, 0
+  xy: 660, 163
+  size: 215, 202
+  orig: 350, 350
+  offset: 66, 80
   index: -1
-circleidle/circleidle_00112
+images/Twinkle Bubble/wh_vfx_d_add_12
   rotate: false
-  xy: 1647, 1222
-  size: 300, 261
-  orig: 300, 261
-  offset: 0, 0
+  xy: 877, 162
+  size: 214, 203
+  orig: 350, 350
+  offset: 66, 79
   index: -1
-circleidle/circleidle_00116
+images/Twinkle Bubble/wh_vfx_d_add_13
   rotate: false
-  xy: 2, 1112
-  size: 300, 261
-  orig: 300, 261
-  offset: 0, 0
+  xy: 444, 160
+  size: 214, 205
+  orig: 350, 350
+  offset: 65, 78
   index: -1
-circleidle/circleidle_00118
+images/Twinkle Bubble/wh_vfx_d_add_14
   rotate: false
-  xy: 304, 1054
-  size: 300, 261
-  orig: 300, 261
-  offset: 0, 0
+  xy: 1093, 160
+  size: 212, 205
+  orig: 350, 350
+  offset: 65, 78
   index: -1
-circleidle/circleidle_00122
+images/Twinkle Bubble/wh_vfx_d_add_15
   rotate: false
-  xy: 606, 988
-  size: 300, 261
-  orig: 300, 261
-  offset: 0, 0
+  xy: 1509, 189
+  size: 209, 176
+  orig: 350, 350
+  offset: 64, 77
   index: -1
-circleidle/circleidle_00124
+images/Twinkle Bubble/wh_vfx_d_add_16
   rotate: false
-  xy: 908, 985
-  size: 300, 261
-  orig: 300, 261
-  offset: 0, 0
+  xy: 1509, 11
+  size: 176, 176
+  orig: 350, 350
+  offset: 94, 77
   index: -1
-circleidle/circleidle_00128
-  rotate: false
-  xy: 1210, 959
-  size: 300, 261
-  orig: 300, 261
-  offset: 0, 0
-  index: -1
-circleidle/circleidle_00130
-  rotate: false
-  xy: 1512, 959
-  size: 300, 261
-  orig: 300, 261
-  offset: 0, 0
-  index: -1
-circleidle/circleidle_00134
-  rotate: false
-  xy: 2, 849
-  size: 300, 261
-  orig: 300, 261
-  offset: 0, 0
-  index: -1
-circleidle/circleidle_00136
-  rotate: false
-  xy: 304, 791
-  size: 300, 261
-  orig: 300, 261
-  offset: 0, 0
-  index: -1
-circleidle/circleidle_00140
-  rotate: false
-  xy: 606, 725
-  size: 300, 261
-  orig: 300, 261
-  offset: 0, 0
-  index: -1
-circleidle/circleidle_00142
-  rotate: false
-  xy: 908, 722
-  size: 300, 261
-  orig: 300, 261
-  offset: 0, 0
-  index: -1
-circleidle/circleidle_00146
-  rotate: false
-  xy: 1210, 696
-  size: 300, 261
-  orig: 300, 261
-  offset: 0, 0
-  index: -1
-circleidle/circleidle_00148
-  rotate: false
-  xy: 1512, 696
-  size: 300, 261
-  orig: 300, 261
-  offset: 0, 0
-  index: -1
-circleidle/circleidle_00152
-  rotate: false
-  xy: 2, 586
-  size: 300, 261
-  orig: 300, 261
-  offset: 0, 0
-  index: -1
-circleidle/circleidle_00154
-  rotate: false
-  xy: 304, 528
-  size: 300, 261
-  orig: 300, 261
-  offset: 0, 0
-  index: -1
-circleidle/circleidle_00158
-  rotate: false
-  xy: 606, 462
-  size: 300, 261
-  orig: 300, 261
-  offset: 0, 0
-  index: -1
-circleidle/circleidle_00160
-  rotate: false
-  xy: 908, 459
-  size: 300, 261
-  orig: 300, 261
-  offset: 0, 0
-  index: -1
-circleidle/circleidle_00164
-  rotate: false
-  xy: 1210, 433
-  size: 300, 261
-  orig: 300, 261
-  offset: 0, 0
-  index: -1
-circleidle/circleidle_00166
-  rotate: false
-  xy: 1512, 433
-  size: 300, 261
-  orig: 300, 261
-  offset: 0, 0
-  index: -1
-circleidle/circleidle_00170
-  rotate: false
-  xy: 2, 323
-  size: 300, 261
-  orig: 300, 261
-  offset: 0, 0
-  index: -1
-circleidle/circleidle_00172
-  rotate: false
-  xy: 304, 265
-  size: 300, 261
-  orig: 300, 261
-  offset: 0, 0
-  index: -1
-circleidle/circleidle_00176
-  rotate: false
-  xy: 606, 199
-  size: 300, 261
-  orig: 300, 261
-  offset: 0, 0
-  index: -1
-circleidle/circleidle_00178
-  rotate: false
-  xy: 908, 196
-  size: 300, 261
-  orig: 300, 261
-  offset: 0, 0
-  index: -1
-circleidle/circleidle_00182
-  rotate: false
-  xy: 1210, 170
-  size: 300, 261
-  orig: 300, 261
-  offset: 0, 0
-  index: -1
-circleidle/circleidle_00184
-  rotate: false
-  xy: 1512, 170
-  size: 300, 261
-  orig: 300, 261
-  offset: 0, 0
-  index: -1
-circleidle/circleidle_00188
-  rotate: false
-  xy: 2, 60
-  size: 300, 261
-  orig: 300, 261
-  offset: 0, 0
-  index: -1
-circleidle/circleidle_00190
-  rotate: false
-  xy: 304, 2
-  size: 300, 261
-  orig: 300, 261
-  offset: 0, 0
-  index: -1
-explodefire/explodefire_00003
-  rotate: false
-  xy: 1574, 1777
-  size: 186, 144
-  orig: 186, 144
-  offset: 0, 0
-  index: -1
-explodefire/explodefire_00007
-  rotate: false
-  xy: 1762, 1777
-  size: 186, 144
-  orig: 186, 144
-  offset: 0, 0
-  index: -1
-explodefire/explodefire_00011
-  rotate: false
-  xy: 2, 1680
-  size: 186, 144
-  orig: 186, 144
-  offset: 0, 0
-  index: -1
-explodefire/explodefire_00015
-  rotate: false
-  xy: 190, 1679
-  size: 186, 144
-  orig: 186, 144
-  offset: 0, 0
-  index: -1
-explodefire/explodefire_00019
-  rotate: false
-  xy: 378, 1672
-  size: 186, 144
-  orig: 186, 144
-  offset: 0, 0
-  index: -1
-explodefire/explodefire_00023
-  rotate: false
-  xy: 566, 1665
-  size: 186, 144
-  orig: 186, 144
-  offset: 0, 0
-  index: -1
-explodefire/explodefire_00027
-  rotate: false
-  xy: 754, 1661
-  size: 186, 144
-  orig: 186, 144
-  offset: 0, 0
-  index: -1
-explodefire/explodefire_00031
-  rotate: false
-  xy: 942, 1660
-  size: 186, 144
-  orig: 186, 144
-  offset: 0, 0
-  index: -1
-explodefire/explodefire_00035
-  rotate: false
-  xy: 1130, 1660
-  size: 186, 144
-  orig: 186, 144
-  offset: 0, 0
-  index: -1
-explodefire/explodefire_00039
-  rotate: false
-  xy: 1318, 1657
-  size: 186, 144
-  orig: 186, 144
-  offset: 0, 0
-  index: -1
-explodefire/explodefire_00043
-  rotate: false
-  xy: 1506, 1631
-  size: 186, 144
-  orig: 186, 144
-  offset: 0, 0
-  index: -1
-explodefire/explodefire_00047
-  rotate: false
-  xy: 1694, 1631
-  size: 186, 144
-  orig: 186, 144
-  offset: 0, 0
-  index: -1
-explodefire/explodefire_00051
-  rotate: false
-  xy: 2, 1534
-  size: 186, 144
-  orig: 186, 144
-  offset: 0, 0
-  index: -1
-explodefire/explodefire_00055
-  rotate: false
-  xy: 190, 1533
-  size: 186, 144
-  orig: 186, 144
-  offset: 0, 0
-  index: -1
-explodefire/explodefire_00059
-  rotate: false
-  xy: 378, 1526
-  size: 186, 144
-  orig: 186, 144
-  offset: 0, 0
-  index: -1
-explodefire/explodefire_00063
-  rotate: false
-  xy: 566, 1519
-  size: 186, 144
-  orig: 186, 144
-  offset: 0, 0
-  index: -1
-explodefire/explodefire_00067
-  rotate: false
-  xy: 754, 1515
-  size: 186, 144
-  orig: 186, 144
-  offset: 0, 0
-  index: -1
-explodefire/explodefire_00071
-  rotate: false
-  xy: 942, 1514
-  size: 186, 144
-  orig: 186, 144
-  offset: 0, 0
-  index: -1
-explodefire/explodefire_00075
-  rotate: false
-  xy: 1130, 1514
-  size: 186, 144
-  orig: 186, 144
-  offset: 0, 0
-  index: -1
-explodefire/explodefire_00079
-  rotate: false
-  xy: 1318, 1511
-  size: 186, 144
-  orig: 186, 144
-  offset: 0, 0
-  index: -1
-explodefire/explodefire_00083
-  rotate: false
-  xy: 1506, 1485
-  size: 186, 144
-  orig: 186, 144
-  offset: 0, 0
-  index: -1
-explodefire/explodefire_00087
-  rotate: false
-  xy: 1694, 1485
-  size: 186, 144
-  orig: 186, 144
-  offset: 0, 0
-  index: -1
-explodefire/explodefire_00091
-  rotate: false
-  xy: 2, 1388
-  size: 186, 144
-  orig: 186, 144
-  offset: 0, 0
-  index: -1
-explodefire/explodefire_00095
-  rotate: false
-  xy: 2, 1388
-  size: 186, 144
-  orig: 186, 144
-  offset: 0, 0
-  index: -1
-explodefire/explodefire_00099
-  rotate: false
-  xy: 2, 1388
-  size: 186, 144
-  orig: 186, 144
-  offset: 0, 0
-  index: -1
-explodefire/explodefire_00103
-  rotate: false
-  xy: 2, 1388
-  size: 186, 144
-  orig: 186, 144
-  offset: 0, 0
-  index: -1
-explodefire/explodefire_00107
-  rotate: false
-  xy: 2, 1388
-  size: 186, 144
-  orig: 186, 144
-  offset: 0, 0
-  index: -1
-explose light circle/sb_vfx_a_add_00.jpg
+images/Twinkle Bubble/wh_vfx_d_add_17
   rotate: true
-  xy: 2, 1848
-  size: 73, 74
-  orig: 124, 124
-  offset: 26, 25
+  xy: 1307, 2
+  size: 160, 166
+  orig: 350, 350
+  offset: 109, 77
   index: -1
-explose light circle/sb_vfx_a_add_01.jpg
+images/Twinkle Bubble/wh_vfx_d_add_18
   rotate: false
-  xy: 78, 1844
-  size: 79, 77
-  orig: 124, 124
-  offset: 23, 25
+  xy: 1687, 21
+  size: 157, 162
+  orig: 350, 350
+  offset: 110, 81
   index: -1
-explose light circle/sb_vfx_a_add_05.jpg
+images/bubble/bubble00
   rotate: false
-  xy: 159, 1826
-  size: 97, 95
-  orig: 124, 124
-  offset: 14, 16
-  index: -1
-explose light circle/sb_vfx_a_add_06.jpg
-  rotate: true
-  xy: 418, 1822
-  size: 99, 102
-  orig: 124, 124
-  offset: 13, 13
-  index: -1
-explose light circle/sb_vfx_a_add_07.jpg
-  rotate: true
-  xy: 522, 1818
-  size: 103, 104
-  orig: 124, 124
-  offset: 11, 12
-  index: -1
-explose light circle/sb_vfx_a_add_08.jpg
-  rotate: true
-  xy: 628, 1816
-  size: 105, 107
-  orig: 124, 124
-  offset: 10, 9
-  index: -1
-explose light circle/sb_vfx_a_add_09.jpg
-  rotate: true
-  xy: 737, 1811
-  size: 110, 112
-  orig: 124, 124
-  offset: 7, 4
-  index: -1
-explose light circle/sb_vfx_a_add_11.jpg
-  rotate: true
-  xy: 851, 1807
-  size: 114, 118
-  orig: 124, 124
-  offset: 7, 1
-  index: -1
-explose light circle/sb_vfx_a_add_12.jpg
-  rotate: true
-  xy: 1090, 1806
-  size: 115, 119
-  orig: 124, 124
-  offset: 5, 1
-  index: -1
-explose light circle/sb_vfx_a_add_13.jpg
-  rotate: true
-  xy: 1211, 1806
-  size: 115, 118
-  orig: 124, 124
-  offset: 4, 3
-  index: -1
-explose light circle/sb_vfx_a_add_14.jpg
-  rotate: true
-  xy: 971, 1807
-  size: 114, 117
-  orig: 124, 124
-  offset: 5, 5
-  index: -1
-explose light circle/sb_vfx_a_add_15.jpg
-  rotate: true
-  xy: 1331, 1805
-  size: 116, 118
-  orig: 124, 124
-  offset: 4, 5
-  index: -1
-explose light circle/sb_vfx_a_add_16.jpg
-  rotate: true
-  xy: 1451, 1803
-  size: 118, 121
-  orig: 124, 124
-  offset: 4, 3
-  index: -1
-hinhle/circle
-  rotate: false
-  xy: 190, 1375
-  size: 156, 156
-  orig: 156, 156
+  xy: 1846, 143
+  size: 40, 40
+  orig: 40, 40
   offset: 0, 0
   index: -1
-hinhle/disable
-  rotate: true
-  xy: 538, 1317
+images/bubble/bubble01
+  rotate: false
+  xy: 1958, 101
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble02
+  rotate: false
+  xy: 1116, 118
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble03
+  rotate: false
+  xy: 1958, 59
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble04
+  rotate: false
+  xy: 1116, 76
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble05
+  rotate: false
+  xy: 1158, 118
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble06
+  rotate: false
+  xy: 1158, 76
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble07
+  rotate: false
+  xy: 1200, 118
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble08
+  rotate: false
+  xy: 1200, 76
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble09
+  rotate: false
+  xy: 1242, 118
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble10
+  rotate: false
+  xy: 1242, 76
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble11
+  rotate: false
+  xy: 1958, 17
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble12
+  rotate: false
+  xy: 1116, 34
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble13
+  rotate: false
+  xy: 1158, 34
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble14
+  rotate: false
+  xy: 1200, 34
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble15
+  rotate: false
+  xy: 1242, 34
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble16
+  rotate: false
+  xy: 227, 99
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble17
+  rotate: false
+  xy: 269, 99
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble18
+  rotate: false
+  xy: 311, 99
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble19
+  rotate: false
+  xy: 353, 99
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble20
+  rotate: false
+  xy: 395, 99
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble21
+  rotate: false
+  xy: 226, 57
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble22
+  rotate: false
+  xy: 268, 57
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble23
+  rotate: false
+  xy: 310, 57
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble24
+  rotate: false
+  xy: 352, 57
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble25
+  rotate: false
+  xy: 394, 57
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble26
+  rotate: false
+  xy: 226, 15
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble27
+  rotate: false
+  xy: 268, 15
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble28
+  rotate: false
+  xy: 310, 15
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble29
+  rotate: false
+  xy: 352, 15
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble30
+  rotate: false
+  xy: 394, 15
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble31
+  rotate: false
+  xy: 436, 6
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble32
+  rotate: false
+  xy: 478, 6
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble33
+  rotate: false
+  xy: 520, 6
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble34
+  rotate: false
+  xy: 562, 6
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble35
+  rotate: false
+  xy: 604, 6
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble36
+  rotate: false
+  xy: 646, 6
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble37
+  rotate: false
+  xy: 688, 9
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble38
+  rotate: false
+  xy: 730, 9
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble39
+  rotate: false
+  xy: 772, 8
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble40
+  rotate: false
+  xy: 814, 8
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble41
+  rotate: false
+  xy: 856, 8
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble42
+  rotate: false
+  xy: 898, 8
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble43
+  rotate: false
+  xy: 940, 8
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble44
+  rotate: false
+  xy: 982, 6
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/bubble/bubble45
+  rotate: false
+  xy: 1024, 6
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images/disable
+  rotate: false
+  xy: 1307, 164
   size: 200, 201
   orig: 208, 208
   offset: 4, 4
   index: -1
-hinhle/light
+images/dropshadow
   rotate: false
-  xy: 258, 1825
-  size: 158, 96
-  orig: 160, 105
-  offset: 2, 5
+  xy: 1307, 164
+  size: 200, 201
+  orig: 208, 208
+  offset: 4, 4
   index: -1
-hinhle/strokecircle
+images/electric/Electricity_31
   rotate: false
-  xy: 348, 1336
-  size: 188, 188
-  orig: 190, 190
-  offset: 1, 1
+  xy: 1902, 255
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
   index: -1
-
-btn-spin2.jpg
-size: 1980,1855
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-circle-light/circle-light004
+images/electric/Electricity_32
   rotate: false
-  xy: 2, 1484
-  size: 492, 369
-  orig: 492, 369
+  xy: 2, 24
+  size: 110, 110
+  orig: 110, 110
   offset: 0, 0
   index: -1
-circle-light/circle-light008
-  rotate: true
-  xy: 496, 1361
-  size: 492, 369
-  orig: 492, 369
-  offset: 0, 0
-  index: -1
-circle-light/circle-light016
-  rotate: true
-  xy: 2, 990
-  size: 492, 369
-  orig: 492, 369
-  offset: 0, 0
-  index: -1
-circle-light/circle-light021
+images/electric/Electricity_33
   rotate: false
-  xy: 373, 990
-  size: 492, 369
-  orig: 492, 369
+  xy: 114, 24
+  size: 110, 110
+  orig: 110, 110
   offset: 0, 0
   index: -1
-circle-light/circle-light029
-  rotate: true
-  xy: 867, 1361
-  size: 492, 369
-  orig: 492, 369
-  offset: 0, 0
-  index: -1
-circle-light/circle-light033
-  rotate: true
-  xy: 867, 867
-  size: 492, 369
-  orig: 492, 369
-  offset: 0, 0
-  index: -1
-circle-light/circle-light041
-  rotate: true
-  xy: 2, 496
-  size: 492, 369
-  orig: 492, 369
-  offset: 0, 0
-  index: -1
-circle-light/circle-light045
-  rotate: true
-  xy: 373, 496
-  size: 492, 369
-  orig: 492, 369
-  offset: 0, 0
-  index: -1
-circle-light/circle-light050
+images/electric/Electricity_34
   rotate: false
-  xy: 744, 496
-  size: 492, 369
-  orig: 492, 369
+  xy: 1902, 143
+  size: 110, 110
+  orig: 110, 110
   offset: 0, 0
   index: -1
-circle-light/circle-light058
+images/electric/Electricity_35
   rotate: false
-  xy: 2, 125
-  size: 492, 369
-  orig: 492, 369
+  xy: 1846, 31
+  size: 110, 110
+  orig: 110, 110
   offset: 0, 0
   index: -1
-circle-light/circle-light062
+images/electric/Electricity_36
   rotate: false
-  xy: 496, 125
-  size: 492, 369
-  orig: 492, 369
+  xy: 444, 48
+  size: 110, 110
+  orig: 110, 110
   offset: 0, 0
   index: -1
-circle-light/circle-light070
+images/electric/Electricity_37
   rotate: false
-  xy: 990, 125
-  size: 492, 369
-  orig: 492, 369
+  xy: 556, 48
+  size: 110, 110
+  orig: 110, 110
   offset: 0, 0
   index: -1
-circle-light/circle-light074
-  rotate: true
-  xy: 1238, 1361
-  size: 492, 369
-  orig: 492, 369
-  offset: 0, 0
-  index: -1
-circle-light/circle-light082
-  rotate: true
-  xy: 1238, 867
-  size: 492, 369
-  orig: 492, 369
-  offset: 0, 0
-  index: -1
-circle-light/circle-light092
+images/electric/Electricity_38
   rotate: false
-  xy: 1238, 496
-  size: 492, 369
-  orig: 492, 369
+  xy: 668, 51
+  size: 110, 110
+  orig: 110, 110
   offset: 0, 0
   index: -1
-circle-light/circle-light099
-  rotate: true
-  xy: 1484, 2
-  size: 492, 369
-  orig: 492, 369
+images/electric/Electricity_39
+  rotate: false
+  xy: 780, 50
+  size: 110, 110
+  orig: 110, 110
   offset: 0, 0
   index: -1
-circle-light/circle-light103
-  rotate: true
-  xy: 1609, 1361
-  size: 492, 369
-  orig: 492, 369
+images/electric/Electricity_40
+  rotate: false
+  xy: 892, 50
+  size: 110, 110
+  orig: 110, 110
   offset: 0, 0
   index: -1
-circle-light/circle-light105
-  rotate: true
-  xy: 1609, 867
-  size: 492, 369
-  orig: 492, 369
+images/electric/Electricity_41
+  rotate: false
+  xy: 1004, 48
+  size: 110, 110
+  orig: 110, 110
   offset: 0, 0
   index: -1
-
-btn-spin3.jpg
-size: 1857,496
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-circle-light/circle-light109
-  rotate: true
-  xy: 2, 2
-  size: 492, 369
-  orig: 492, 369
-  offset: 0, 0
-  index: -1
-circle-light/circle-light112
-  rotate: true
-  xy: 373, 2
-  size: 492, 369
-  orig: 492, 369
-  offset: 0, 0
-  index: -1
-circle-light/circle-light120
-  rotate: true
-  xy: 744, 2
-  size: 492, 369
-  orig: 492, 369
-  offset: 0, 0
-  index: -1
-circle-light/circle-light124
-  rotate: true
-  xy: 1115, 2
-  size: 492, 369
-  orig: 492, 369
-  offset: 0, 0
-  index: -1
-circle-light/circle-light132
-  rotate: true
-  xy: 1486, 2
-  size: 492, 369
-  orig: 492, 369
+images/spin-button
+  rotate: false
+  xy: 1720, 185
+  size: 180, 180
+  orig: 180, 180
   offset: 0, 0
   index: -1

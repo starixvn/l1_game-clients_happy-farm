@@ -2,16 +2,16 @@
   "ver": "1.0.27",
   "importer": "image",
   "imported": true,
-  "uuid": "70dbcadf-8514-4d7f-aab9-1ae1161919b3",
+  "uuid": "5cb531e0-1fc9-4da6-bd1e-07f1963890f8",
   "files": [
-    ".jpg",
-    ".json"
+    ".json",
+    ".webp"
   ],
   "subMetas": {
     "6c48a": {
       "importer": "texture",
-      "uuid": "70dbcadf-8514-4d7f-aab9-1ae1161919b3@6c48a",
-      "displayName": "schooloffish2",
+      "uuid": "5cb531e0-1fc9-4da6-bd1e-07f1963890f8@6c48a",
+      "displayName": "tomandjerry",
       "id": "6c48a",
       "name": "texture",
       "userData": {
@@ -22,7 +22,7 @@
         "mipfilter": "none",
         "anisotropy": 0,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "70dbcadf-8514-4d7f-aab9-1ae1161919b3",
+        "imageUuidOrDatabaseUri": "5cb531e0-1fc9-4da6-bd1e-07f1963890f8",
         "visible": false
       },
       "ver": "1.0.22",
@@ -35,8 +35,8 @@
   },
   "userData": {
     "type": "texture",
-    "hasAlpha": false,
+    "hasAlpha": true,
     "fixAlphaTransparencyArtifacts": false,
-    "redirect": "70dbcadf-8514-4d7f-aab9-1ae1161919b3@6c48a"
+    "redirect": "5cb531e0-1fc9-4da6-bd1e-07f1963890f8@6c48a"
   }
 }
