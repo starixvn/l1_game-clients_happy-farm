@@ -42,7 +42,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -0.030029296875,
+      "x": 0,
       "y": 0,
       "z": 0
     },
@@ -95,7 +95,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 33.97998046875,
+      "x": 15,
       "y": 0,
       "z": 0
     },
@@ -270,7 +270,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 516.030029296875,
+      "x": 516,
       "y": 0,
       "z": 0
     },
@@ -445,7 +445,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 245.77996826171875,
+      "x": 226.79998779296875,
       "y": 0,
       "z": 0
     },
@@ -608,13 +608,13 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 1379.050048828125,
-      "height": 237.36000061035156
+      "width": 1398,
+      "height": 786
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
-      "x": 0.4931075707579362,
-      "y": 0.7629760938567238
+      "x": 0.5,
+      "y": 0.5
     },
     "_id": ""
   },
@@ -634,7 +634,7 @@
     "__prefab": {
       "__id__": 29
     },
-    "_alignFlags": 32,
+    "_alignFlags": 45,
     "_target": null,
     "_left": 0,
     "_right": 0,
@@ -648,8 +648,8 @@
     "_isAbsBottom": true,
     "_isAbsHorizontalCenter": true,
     "_isAbsVerticalCenter": true,
-    "_originalWidth": 0,
-    "_originalHeight": 0,
+    "_originalWidth": 1378,
+    "_originalHeight": 786,
     "_alignMode": 2,
     "_lockFlags": 0,
     "_id": ""
