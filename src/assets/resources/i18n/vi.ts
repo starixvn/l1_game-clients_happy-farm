@@ -280,9 +280,9 @@ export const languages = {
         "win_tumble_msg": "CHÚC MỪNG!",
         "you_win_free_spin": "Bạn đã thắng"
     },
-    "PoseidonsRealm": {
-        "game_icon_name": "Kho Báu Poseidon",
-        "game_name": "Kho Báu Poseidon"
+    "HappyFarm": {
+        "game_icon_name": "Nông Trại\nVui Vẻ",
+        "game_name": "Nông Trại Vui Vẻ"
     }
 };
 

@@ -280,9 +280,9 @@ export const languages = {
         "win_tumble_msg": "ขอแสดงความยินดี!",
         "you_win_free_spin": "คุณชนะ"
     },
-    "PoseidonsRealm": {
-        "game_icon_name": "อาณาจักร\nแห่งโพไซดอน",
-        "game_name": "อาณาจักรแห่งโพไซดอน"
+    "HappyFarm": {
+        "game_icon_name": "แฮปปี้ ฟาร์ม",
+        "game_name": "แฮปปี้ ฟาร์ม"
     }
 };
 

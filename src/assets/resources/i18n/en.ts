@@ -280,9 +280,9 @@ export const languages = {
         "win_tumble_msg": "CONGRATULATION!",
         "you_win_free_spin": "You win"
     },
-    "PoseidonsRealm": {
-        "game_icon_name": "Poseidon's Realm",
-        "game_name": "Poseidon's Realm"
+    "HappyFarm": {
+        "game_icon_name": "Happy Farm",
+        "game_name": "Happy Farm"
     }
 };
 
