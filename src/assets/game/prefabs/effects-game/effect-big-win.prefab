@@ -453,7 +453,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 920.6199951171875,
+      "width": 920.719995,
       "height": 670.5800170898438
     },
     "_anchorPoint": {
@@ -521,8 +521,6 @@
       "__id__": 0
     },
     "fileId": "ffa1NZGhxOFrKltzLbNLmJ",
-    "instance": null,
-    "targetOverrides": null,
     "nestedPrefabInstanceRoots": null
   },
   {

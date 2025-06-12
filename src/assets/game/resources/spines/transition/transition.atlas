@@ -4,7 +4,7 @@ size: 435,667
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-images/lua
+lua
   rotate: false
   xy: 2, 2
   size: 431, 663
