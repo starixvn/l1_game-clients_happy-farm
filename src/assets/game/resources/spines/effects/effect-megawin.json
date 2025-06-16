@@ -1,5 +1,5 @@
 {
-"skeleton": { "hash": "wFcxfNyfGPkrirwQfPgdUa+gjtc", "spine": "3.8.99", "images": "./images/", "audio": "" },
+"skeleton": { "hash": "Ogmr62pPNWJifph2VjMNd3se0gw", "spine": "3.8.99", "images": "./images/", "audio": "" },
 "bones": [
 	{ "name": "root" },
 	{ "name": "sunshine", "parent": "root", "y": 124 },
@@ -23,7 +23,7 @@
 	{ "name": "rice 4", "parent": "root", "x": 36.41, "y": -40.65 },
 	{ "name": "ricegrain4", "parent": "rice 4" },
 	{ "name": "text-megawin", "parent": "root", "y": 138.04 },
-	{ "name": "money-number", "parent": "root", "y": -153.12 },
+	{ "name": "money-number", "parent": "root", "y": -156 },
 	{ "name": "people2", "parent": "people", "length": 35.99, "rotation": 89.38, "x": 156.37, "y": -58.98 },
 	{ "name": "people3", "parent": "people2", "length": 81.73, "rotation": 3.06, "x": 35.99 },
 	{ "name": "people4", "parent": "people", "length": 43.37, "rotation": 87.95, "x": -169.87, "y": -9.44 }

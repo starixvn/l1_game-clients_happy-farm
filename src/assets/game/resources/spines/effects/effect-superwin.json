@@ -1,5 +1,5 @@
 {
-"skeleton": { "hash": "iNizwF9iQP+/32g6fz69WSsVaSg", "spine": "3.8.99", "images": "./images/", "audio": "" },
+"skeleton": { "hash": "efAL6uXkw/A4DvwQF3tP2vY4ZhU", "spine": "3.8.99", "images": "./images/", "audio": "" },
 "bones": [
 	{ "name": "root" },
 	{ "name": "sunshine", "parent": "root", "y": 124 },
@@ -32,7 +32,7 @@
 	{ "name": "rice 4", "parent": "root", "x": 36.41, "y": -40.65 },
 	{ "name": "ricegrain4", "parent": "rice 4" },
 	{ "name": "text-superwin", "parent": "root", "y": 138.04 },
-	{ "name": "money-number", "parent": "root", "y": -153.12 }
+	{ "name": "money-number", "parent": "root", "y": -156 }
 ],
 "slots": [
 	{ "name": "feild", "bone": "feild" },
