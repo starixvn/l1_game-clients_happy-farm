@@ -45,7 +45,7 @@
                 <key>spriteSourceSize</key>
                 <string>{90,90}</string>
                 <key>textureRect</key>
-                <string>{{135,658},{84,84}}</string>
+                <string>{{135,654},{84,84}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -150,7 +150,7 @@
                 <key>spriteSourceSize</key>
                 <string>{78,78}</string>
                 <key>textureRect</key>
-                <string>{{135,744},{78,78}}</string>
+                <string>{{135,740},{78,78}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -176,11 +176,11 @@
                 <key>spriteOffset</key>
                 <string>{0,-1}</string>
                 <key>spriteSize</key>
-                <string>{92,86}</string>
+                <string>{90,84}</string>
                 <key>spriteSourceSize</key>
                 <string>{94,94}</string>
                 <key>textureRect</key>
-                <string>{{135,482},{92,86}}</string>
+                <string>{{135,482},{90,84}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -189,13 +189,13 @@
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{0,-1}</string>
+                <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{94,92}</string>
+                <string>{94,90}</string>
                 <key>spriteSourceSize</key>
                 <string>{94,94}</string>
                 <key>textureRect</key>
-                <string>{{135,386},{94,92}}</string>
+                <string>{{135,386},{94,90}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -206,11 +206,11 @@
                 <key>spriteOffset</key>
                 <string>{0,-1}</string>
                 <key>spriteSize</key>
-                <string>{92,86}</string>
+                <string>{90,84}</string>
                 <key>spriteSourceSize</key>
                 <string>{94,94}</string>
                 <key>textureRect</key>
-                <string>{{135,570},{92,86}}</string>
+                <string>{{135,568},{90,84}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -513,7 +513,7 @@
             <key>size</key>
             <string>{512,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:71e35d3c84c62f72131943f5ec4b5805:aab7e40a0862faea67c8e4a6a719c8fd:40ee7df176381dd4082d4248ef6d2be1$</string>
+            <string>$TexturePacker:SmartUpdate:f39a0a0b89f4c38040023d8d31d155c3:c854b92b0a808a9f89b178a1095430a5:40ee7df176381dd4082d4248ef6d2be1$</string>
             <key>textureFileName</key>
             <string>standard-cascading-slot.webp</string>
         </dict>
