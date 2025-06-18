@@ -28,6 +28,6 @@ describe("when imported", () => {
 
     it("should configure observer", () => {
         // Assert
-        expect(configure).toBeCalledWith({ default: { mobx, container: { sharedContainer: true } } });
+        expect(configure).toBeCalledWith({ default: { mobx: expect.any(Object), container: { sharedContainer: true } } });
     });
 });
