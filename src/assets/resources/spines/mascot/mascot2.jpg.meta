@@ -2,7 +2,7 @@
   "ver": "1.0.27",
   "importer": "image",
   "imported": true,
-  "uuid": "ce4855c2-ee70-47e9-886c-52ca1daf9c9e",
+  "uuid": "ac5b0e98-aea1-469c-9867-3251c315969b",
   "files": [
     ".jpg",
     ".json"
@@ -10,8 +10,8 @@
   "subMetas": {
     "6c48a": {
       "importer": "texture",
-      "uuid": "ce4855c2-ee70-47e9-886c-52ca1daf9c9e@6c48a",
-      "displayName": "schooloffish3",
+      "uuid": "ac5b0e98-aea1-469c-9867-3251c315969b@6c48a",
+      "displayName": "mascot2",
       "id": "6c48a",
       "name": "texture",
       "userData": {
@@ -22,7 +22,7 @@
         "mipfilter": "none",
         "anisotropy": 0,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "ce4855c2-ee70-47e9-886c-52ca1daf9c9e",
+        "imageUuidOrDatabaseUri": "ac5b0e98-aea1-469c-9867-3251c315969b",
         "visible": false
       },
       "ver": "1.0.22",
@@ -37,6 +37,6 @@
     "type": "texture",
     "hasAlpha": false,
     "fixAlphaTransparencyArtifacts": false,
-    "redirect": "ce4855c2-ee70-47e9-886c-52ca1daf9c9e@6c48a"
+    "redirect": "ac5b0e98-aea1-469c-9867-3251c315969b@6c48a"
   }
 }
