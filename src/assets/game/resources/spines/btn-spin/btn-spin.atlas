@@ -1,495 +1,495 @@
 
 btn-spin.webp
-size: 2014,367
+size: 1767,415
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-images/Twinkle Bubble/wh_vfx_d_add_09
+Twinkle Bubble/wh_vfx_d_add_09
   rotate: false
-  xy: 2, 136
-  size: 223, 229
+  xy: 1, 183
+  size: 225, 231
   orig: 350, 350
-  offset: 67, 58
+  offset: 66, 57
   index: -1
-images/Twinkle Bubble/wh_vfx_d_add_10
+Twinkle Bubble/wh_vfx_d_add_10
   rotate: false
-  xy: 227, 141
-  size: 215, 224
+  xy: 228, 188
+  size: 217, 226
   orig: 350, 350
-  offset: 67, 57
+  offset: 66, 56
   index: -1
-images/Twinkle Bubble/wh_vfx_d_add_11
+Twinkle Bubble/wh_vfx_d_add_11
   rotate: false
-  xy: 660, 163
-  size: 215, 202
+  xy: 447, 1
+  size: 217, 204
   orig: 350, 350
-  offset: 66, 80
+  offset: 65, 79
   index: -1
-images/Twinkle Bubble/wh_vfx_d_add_12
+Twinkle Bubble/wh_vfx_d_add_12
   rotate: false
-  xy: 877, 162
-  size: 214, 203
-  orig: 350, 350
-  offset: 66, 79
-  index: -1
-images/Twinkle Bubble/wh_vfx_d_add_13
-  rotate: false
-  xy: 444, 160
-  size: 214, 205
+  xy: 881, 209
+  size: 216, 205
   orig: 350, 350
   offset: 65, 78
   index: -1
-images/Twinkle Bubble/wh_vfx_d_add_14
+Twinkle Bubble/wh_vfx_d_add_13
   rotate: false
-  xy: 1093, 160
-  size: 212, 205
-  orig: 350, 350
-  offset: 65, 78
-  index: -1
-images/Twinkle Bubble/wh_vfx_d_add_15
-  rotate: false
-  xy: 1509, 189
-  size: 209, 176
+  xy: 447, 207
+  size: 216, 207
   orig: 350, 350
   offset: 64, 77
   index: -1
-images/Twinkle Bubble/wh_vfx_d_add_16
+Twinkle Bubble/wh_vfx_d_add_14
   rotate: false
-  xy: 1509, 11
-  size: 176, 176
+  xy: 665, 207
+  size: 214, 207
   orig: 350, 350
-  offset: 94, 77
+  offset: 64, 77
   index: -1
-images/Twinkle Bubble/wh_vfx_d_add_17
-  rotate: true
-  xy: 1307, 2
-  size: 160, 166
+Twinkle Bubble/wh_vfx_d_add_15
+  rotate: false
+  xy: 1099, 236
+  size: 211, 178
   orig: 350, 350
-  offset: 109, 77
+  offset: 63, 76
   index: -1
-images/Twinkle Bubble/wh_vfx_d_add_18
+Twinkle Bubble/wh_vfx_d_add_16
   rotate: false
-  xy: 1687, 21
-  size: 157, 162
+  xy: 1312, 236
+  size: 178, 178
   orig: 350, 350
-  offset: 110, 81
+  offset: 93, 76
   index: -1
-images/bubble/bubble00
+Twinkle Bubble/wh_vfx_d_add_17
   rotate: false
-  xy: 1846, 143
+  xy: 1492, 246
+  size: 162, 168
+  orig: 350, 350
+  offset: 108, 76
+  index: -1
+Twinkle Bubble/wh_vfx_d_add_18
+  rotate: false
+  xy: 183, 17
+  size: 159, 164
+  orig: 350, 350
+  offset: 109, 80
+  index: -1
+bubble/bubble00
+  rotate: false
+  xy: 870, 53
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble01
+bubble/bubble01
   rotate: false
-  xy: 1958, 101
+  xy: 1430, 82
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble02
+bubble/bubble02
   rotate: false
-  xy: 1116, 118
+  xy: 870, 11
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble03
+bubble/bubble03
   rotate: false
-  xy: 1958, 59
+  xy: 912, 53
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble04
+bubble/bubble04
   rotate: false
-  xy: 1116, 76
+  xy: 1430, 40
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble05
+bubble/bubble05
   rotate: false
-  xy: 1158, 118
+  xy: 1472, 82
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble06
+bubble/bubble06
   rotate: false
-  xy: 1158, 76
+  xy: 912, 11
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble07
+bubble/bubble07
   rotate: false
-  xy: 1200, 118
+  xy: 1472, 40
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble08
+bubble/bubble08
   rotate: false
-  xy: 1200, 76
+  xy: 344, 146
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble09
+bubble/bubble09
   rotate: false
-  xy: 1242, 118
+  xy: 344, 104
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble10
+bubble/bubble10
   rotate: false
-  xy: 1242, 76
+  xy: 386, 146
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble11
+bubble/bubble11
   rotate: false
-  xy: 1958, 17
+  xy: 344, 62
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble12
+bubble/bubble12
   rotate: false
-  xy: 1116, 34
+  xy: 386, 104
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble13
+bubble/bubble13
   rotate: false
-  xy: 1158, 34
+  xy: 344, 20
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble14
+bubble/bubble14
   rotate: false
-  xy: 1200, 34
+  xy: 386, 62
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble15
+bubble/bubble15
   rotate: false
-  xy: 1242, 34
+  xy: 386, 20
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble16
+bubble/bubble16
   rotate: false
-  xy: 227, 99
+  xy: 1514, 82
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble17
+bubble/bubble17
   rotate: false
-  xy: 269, 99
+  xy: 1514, 40
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble18
+bubble/bubble18
   rotate: false
-  xy: 311, 99
+  xy: 1547, 204
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble19
+bubble/bubble19
   rotate: false
-  xy: 353, 99
+  xy: 1547, 162
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble20
+bubble/bubble20
   rotate: false
-  xy: 395, 99
+  xy: 1589, 204
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble21
+bubble/bubble21
   rotate: false
-  xy: 226, 57
+  xy: 1589, 162
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble22
+bubble/bubble22
   rotate: false
-  xy: 268, 57
+  xy: 954, 53
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble23
+bubble/bubble23
   rotate: false
-  xy: 310, 57
+  xy: 954, 11
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble24
+bubble/bubble24
   rotate: false
-  xy: 352, 57
+  xy: 996, 55
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble25
+bubble/bubble25
   rotate: false
-  xy: 394, 57
+  xy: 996, 13
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble26
+bubble/bubble26
   rotate: false
-  xy: 226, 15
+  xy: 1038, 55
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble27
+bubble/bubble27
   rotate: false
-  xy: 268, 15
+  xy: 1038, 13
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble28
+bubble/bubble28
   rotate: false
-  xy: 310, 15
+  xy: 1631, 150
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble29
+bubble/bubble29
   rotate: false
-  xy: 352, 15
+  xy: 1673, 150
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble30
+bubble/bubble30
   rotate: false
-  xy: 394, 15
+  xy: 1715, 150
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble31
+bubble/bubble31
   rotate: false
-  xy: 436, 6
+  xy: 1556, 120
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble32
+bubble/bubble32
   rotate: false
-  xy: 478, 6
+  xy: 1556, 78
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble33
+bubble/bubble33
   rotate: false
-  xy: 520, 6
+  xy: 1556, 36
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble34
+bubble/bubble34
   rotate: false
-  xy: 562, 6
+  xy: 1598, 108
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble35
+bubble/bubble35
   rotate: false
-  xy: 604, 6
+  xy: 1598, 66
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble36
+bubble/bubble36
   rotate: false
-  xy: 646, 6
+  xy: 1640, 108
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble37
+bubble/bubble37
   rotate: false
-  xy: 688, 9
+  xy: 1640, 66
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble38
+bubble/bubble38
   rotate: false
-  xy: 730, 9
+  xy: 1682, 108
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble39
+bubble/bubble39
   rotate: false
-  xy: 772, 8
+  xy: 1682, 66
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble40
+bubble/bubble40
   rotate: false
-  xy: 814, 8
+  xy: 1724, 108
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble41
+bubble/bubble41
   rotate: false
-  xy: 856, 8
+  xy: 1724, 66
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble42
+bubble/bubble42
   rotate: false
-  xy: 898, 8
+  xy: 1598, 24
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble43
+bubble/bubble43
   rotate: false
-  xy: 940, 8
+  xy: 1640, 24
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble44
+bubble/bubble44
   rotate: false
-  xy: 982, 6
+  xy: 1682, 24
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/bubble/bubble45
+bubble/bubble45
   rotate: false
-  xy: 1024, 6
+  xy: 1724, 24
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-images/disable
+disable
   rotate: false
-  xy: 1307, 164
-  size: 200, 201
+  xy: 666, 2
+  size: 202, 203
   orig: 208, 208
-  offset: 4, 4
+  offset: 3, 3
   index: -1
-images/dropshadow
+dropshadow
   rotate: false
-  xy: 1307, 164
-  size: 200, 201
+  xy: 666, 2
+  size: 202, 203
   orig: 208, 208
-  offset: 4, 4
+  offset: 3, 3
   index: -1
-images/electric/Electricity_31
+electric/Electricity_31
   rotate: false
-  xy: 1902, 255
+  xy: 1656, 304
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
-images/electric/Electricity_32
+electric/Electricity_32
   rotate: false
-  xy: 2, 24
+  xy: 1656, 192
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
-images/electric/Electricity_33
+electric/Electricity_33
   rotate: false
-  xy: 114, 24
+  xy: 1099, 124
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
-images/electric/Electricity_34
+electric/Electricity_34
   rotate: false
-  xy: 1902, 143
+  xy: 1211, 124
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
-images/electric/Electricity_35
+electric/Electricity_35
   rotate: false
-  xy: 1846, 31
+  xy: 1323, 124
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
-images/electric/Electricity_36
+electric/Electricity_36
   rotate: false
-  xy: 444, 48
+  xy: 1435, 124
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
-images/electric/Electricity_37
+electric/Electricity_37
   rotate: false
-  xy: 556, 48
+  xy: 870, 95
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
-images/electric/Electricity_38
+electric/Electricity_38
   rotate: false
-  xy: 668, 51
+  xy: 982, 97
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
-images/electric/Electricity_39
+electric/Electricity_39
   rotate: false
-  xy: 780, 50
+  xy: 1094, 12
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
-images/electric/Electricity_40
+electric/Electricity_40
   rotate: false
-  xy: 892, 50
+  xy: 1206, 12
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
-images/electric/Electricity_41
+electric/Electricity_41
   rotate: false
-  xy: 1004, 48
+  xy: 1318, 12
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
-images/spin-button
+spin-button
   rotate: false
-  xy: 1720, 185
+  xy: 1, 1
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
