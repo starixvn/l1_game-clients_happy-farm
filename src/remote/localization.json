@@ -5,7 +5,9 @@
         "th": "แฮปปี้ ฟาร์ม",
         "vi": "Nông Trại\nVui Vẻ",
         "zh_cn": "开心农场",
-        "zh_tw": "开心农场"
+        "zh_tw": "开心农场",
+        "ja": "Happy Farm",
+        "es": "Happy Farm"
     },
     "gameNames": {
         "en": "Happy Farm",
@@ -13,6 +15,8 @@
         "th": "แฮปปี้ ฟาร์ม",
         "vi": "Nông Trại Vui Vẻ",
         "zh_cn": "开心农场",
-        "zh_tw": "开心农场"
+        "zh_tw": "开心农场",
+        "ja": "Happy Farm",
+        "es": "Happy Farm"
     }
 }
