@@ -1,22 +1,30 @@
 {
     "lobbyNames": {
         "en": "Happy Farm",
+        "es": "Happy Farm",
+        "fil_ph": "Happy Farm",
         "id": "Happy Farm",
+        "ja": "Happy Farm",
+        "ko": "행복한 농장",
+        "pt_br": "Fazenda Feliz",
         "th": "แฮปปี้ ฟาร์ม",
+        "tr": "Mutlu Çiftlik",
         "vi": "Nông Trại\nVui Vẻ",
         "zh_cn": "开心农场",
-        "zh_tw": "开心农场",
-        "ja": "Happy Farm",
-        "es": "Happy Farm"
+        "zh_tw": "开心农场"
     },
     "gameNames": {
         "en": "Happy Farm",
+        "es": "Happy Farm",
+        "fil_ph": "Happy Farm",
         "id": "Happy Farm",
+        "ja": "Happy Farm",
+        "ko": "행복한 농장",
+        "pt_br": "Fazenda Feliz",
         "th": "แฮปปี้ ฟาร์ม",
+        "tr": "Mutlu Çiftlik",
         "vi": "Nông Trại Vui Vẻ",
         "zh_cn": "开心农场",
-        "zh_tw": "开心农场",
-        "ja": "Happy Farm",
-        "es": "Happy Farm"
+        "zh_tw": "开心农场"
     }
 }
